@@ -1,0 +1,15 @@
+{
+  "txn_id": "Sample_id",
+  "input_type": "base64",
+  "ocr_engine": "EasyOCR",
+  "ocr_id": 2,
+  "extracted_text": "Govemment of India\nSutapa Pal Datta Date of Birth/D08: 26/01/1979 Femalel FEMALE\n6641 2804 9316 MD 9179 3343 7087 9130 \u0917\u0930 \u0906\u0927\u0930 \u0917\u0930 \u092a\u0939\u091a\u0928",
+  "saved_files": {
+    "output": "transactions/Sample_id_e5da19b4-b0e0-4846-9b04-5120c267b356/output.txt",
+    "request": "transactions/Sample_id_e5da19b4-b0e0-4846-9b04-5120c267b356/request.json",
+    "response": "transactions/Sample_id_e5da19b4-b0e0-4846-9b04-5120c267b356/response.json"
+  },
+  "msg": "OCR completed using EasyOCR",
+  "remark": "success",
+  "timestamp": "2025-12-08 15:10:51"
+}

@@ -1,0 +1,14 @@
+images/
+ocr_results/
+__pycache__/
+*.pyc
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.tiff
+inference/
+.paddleocr/
+.easyocr/
+.env
+venv/

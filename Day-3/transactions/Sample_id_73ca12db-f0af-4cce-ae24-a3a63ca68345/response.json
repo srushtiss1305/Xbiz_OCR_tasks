@@ -1,0 +1,15 @@
+{
+  "txn_id": "Sample_id",
+  "input_type": "file_path",
+  "ocr_engine": "Tesseract",
+  "ocr_id": 1,
+  "extracted_text": "INCOME TAX DEPARTMENT GOVT. OF INDIA:\n. i CURA TAT ASM STS Barn amen TG\nRieter Permanent Account Number Card . ee ee\n= LYUPS3752G eRe oo\na7 ie oe te er AR SS :\nara / Name - POO eee !\nUDAYRAJ SINGH LR ;\nfWeit Wr ATA / Father's Name Bae oa he eee\nYUVRAJ SINGH\n. _ 12072019\npi/042001 Siggptue\nwe he aa... ,",
+  "saved_files": {
+    "output": "transactions/Sample_id_73ca12db-f0af-4cce-ae24-a3a63ca68345/output.txt",
+    "request": "transactions/Sample_id_73ca12db-f0af-4cce-ae24-a3a63ca68345/request.json",
+    "response": "transactions/Sample_id_73ca12db-f0af-4cce-ae24-a3a63ca68345/response.json"
+  },
+  "msg": "OCR completed using Tesseract",
+  "remark": "success",
+  "timestamp": "2025-12-08 17:17:56"
+}

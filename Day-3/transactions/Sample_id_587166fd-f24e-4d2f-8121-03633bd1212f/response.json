@@ -1,0 +1,15 @@
+{
+  "txn_id": "Sample_id",
+  "input_type": "file_path",
+  "ocr_engine": "PaddleOCR",
+  "ocr_id": 3,
+  "extracted_text": "Government of India\nJohn Jawahar J\nDB:21/08/1997\nMale\n971041553764\nUnique Identification Authority of India\na soCg a\nAddress:S/OJoseph\n199.\nAntony Efram.199,\nu.g\nTSUNAMI GOLONY.\n627105\nKoondankuiam.Perumanal.\nTirunelveli, Radhapuram,\nTamil Nadu.627106\n971041553764\n1947\nwww\n1800300 1947\nhelp@uidal.gov.in\nwww.uidai.ggv.in",
+  "saved_files": {
+    "output": "transactions/Sample_id_587166fd-f24e-4d2f-8121-03633bd1212f/output.txt",
+    "request": "transactions/Sample_id_587166fd-f24e-4d2f-8121-03633bd1212f/request.json",
+    "response": "transactions/Sample_id_587166fd-f24e-4d2f-8121-03633bd1212f/response.json"
+  },
+  "msg": "OCR completed using PaddleOCR",
+  "remark": "success",
+  "timestamp": "2025-12-08 13:00:53"
+}

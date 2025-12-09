@@ -1,0 +1,7 @@
+{
+  "txn_id": "Sample_id",
+  "timestamp": "2025-12-08 15:10:51",
+  "image_input_type": "base64",
+  "ocr_id": 2,
+  "ocr_engine": "EasyOCR"
+}

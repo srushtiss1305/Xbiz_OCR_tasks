@@ -1,0 +1,7 @@
+{
+  "txn_id": "Sample_id",
+  "timestamp": "2025-12-08 17:17:56",
+  "image_input_type": "file_path",
+  "ocr_id": 1,
+  "ocr_engine": "Tesseract"
+}
