@@ -1,0 +1,47 @@
+Document Type: Bank Details
+==================================================
+3/14/2014   ElectricityBill
+MAHAVITARAN
+Maharasha Stae Eecty Dson Co.L
+Maharashtra State ElectricityDistribution Co.Ltd
+BillingUnit   0892TALEGAONBill For   FEB-14   Bill Date:   08-FEB-14
+ConsumerNo:   181092332114OldConsumerNo12776   Bill Period:   05-JAN-14to 05-FEB-14
+Name:   SMT KUCHEKARJYOTIYOGESHFNO14   Rs.Ps
+TALEGAONSTN PHALAKEAPP   Due Date:   28-FEB-14   350.00
+Address:   TALMAVALDISTPUNE
+TALEGAONSTN410506   If Paid by thisDate:   17-FEB-14   340.00
+If Paid After this Date   28-FEB-14   350.00
+For any queries on this billplease contact   The above amcunt is being rounded up
+sdo0892@ho.mahadiscom.in
+Rs.Ps.
+PC/MR/Route   5/12-   LTIRes   Fixed Charges   40.00
+Sequence   0080-   Tariff   01   Category   1-Phase   EnergyCharges   258.72
+0970
+Conn.   2.5   Eectricity Duty   44.81
+DTC:   4061061   Load   KW   Duty   01   F.A.C.   0.00
+PoleNo:   00000O   Sanct.   2.5   Supply   25-May-   AdditionalSupplyCharges   0.00
+Load   KW   Date   09   Tax cn Sale   0.00
+Previous Bill Credit   0.00
+Meter   Current   Previous   Adj.   Current Interest   0.00
+No.   Reading   Reading   MFUnit   Unit   Total   Capacitor Penalty   0.00
+10890911   8367   8290   01   77   0   77   Other Charges   0.00
+CO000000   0   0   00   Total   343.53
+Net Arrears   7.24
+SecurityDeposit   Adjustments   3.30
+Arrears:0.00   Held2270.00   Demanded0.00   InterestArrears   0.00
+Bill for 1.03 Months   Total Arrears   3.94
+Receipts considered up-to05-FEB-14   Net BllAmount   347.47
+Meter status:NORMAL   RoundedBill   350.00
+PreviousBillPrompt Payment Credit (Rs.)-3.30/   Last Receipt Date   20-JAN-14
+Last Receipt Amount   370.00
+DPC:6.87
+Afterthis date:28-FE-14
+PayRs.350
+EnergyBill Paid Online on 24-FEB-14
+Prompt Payment DscountRs.2.99bil is onor before 17-FEB
+14
+For queries related to your online payment transactions.please contact helpdesk_pg@mahadiscom.in
+Any unauthorisedchanges made in this bll will lead to non-acceptance of the bill.
+Billing   0892   Consumer   181092332114PC5Tariff:01   Rs.Ps
+Unit:   No:
+http://wss.mahadiscominwss/wss   1/2

@@ -1,0 +1,44 @@
+Document Type: Electricity Bill
+==================================================
+19/06/2022.10:34   ugvel.info/UGBILL/BiHTML.php?eno=71930011768
+UTTAR GUJARATVIJCOMPANYLIMITED
+G   ADDRESSVISNAGAR ROAD,MEHSANA-384001WEBSITEWWW.ugVel.COm   EMAlLcorporate@ugvel.com
+V C   HELPLINENo1800233155335/19121   GSTNo:24AAACU6551F1Z1   CINNoU40102GJ2003SGC042906
+E-ELECTRICITYBILLAPR-MAY,22
+SMT VIJAYA LAKSHMI G NAIR   Sub-divisionOffice   BOPAL
+40/2-PARAMDHAMSOC   Route Code   1/9/12/180
+PARAMDHAM SOCIETY   Bill No   1/23018
+VILLBopa (CT)   BillDate   31-05-2022
+TAL:Daskroi   LastDate of Payment   10-06-2022
+DISTRICT:Ahmadabad   Tariff   MeterCode   H.P/K.W.   Seasonal   Days   S.D.
+FEEDER CD:4112 0000CENSUS CD:40716000   RGPU   B   7.00   0   4576.00
+Consumer No   Meter No   S.No.   Bill Details   Rupee
+71930011768   UTP-0115000   Fixed Charges   140.00
+Phase   Meter Status   2   EnergyCharges   15.25
+3   Minimum Charges   0.00
+Active   IMP   Reactive/Night   EXP   4   Reactive Charges   0.00
+Present Reading   17278   0   0   0   5   FuelCharges @230.00   11.48
+Past Reading   00017273   0   0   0   6   Ed Charges@ 15.00   25.01
+ReadingDifference   5   0   0   0   7   MeterCharges   0.00
+MF   1.00   Delayed Paymen Charges   0.00
+Total Consumption   Bill Total   191.74
+Average Consumption   210   10   Provisional Bill Amount   0.00
+Max Demand   0.00   Ne Total   191.74
+AverageMaxDemand   0.00   12   Arrears on date 16-05-2022   194.48CR
+Total CompanyCharges   140.00   13   solarPur.@0.00   0.00
+Provisional Bill Amount   0.000.00   4   Un-ProcessPayment Amoun!   0.00
+Adjustment Amount   194.48   15   Grand Total   2.74CR
+Last ThreeMonth Units   16   Govt Relief   0.00
+Month   Nov   Jan   Mar   17   Total Amount Due   2.74CR
+Unit   200   213   0   18   InterestAmount
+Bill Amount   1374.25   197.17   140.00   19   TheftArrears   0.00
+AmountDue/12qlylsyRs.2.74CR   20   Litigation Arrears   0.00
+.
+ywree
+(For Office Use Only
+Cheque orUPI
+Payment Date   Signature   Cash   Payment Rs
+Reference
+71930011768   1/23018   APR-MAY,22
+Click/Scan QR for   Consumer No   Bill No   Month
+ugvcl.info/UGBILL/BillHTML.php?cno=71930011768   1/2
