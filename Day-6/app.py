@@ -9,16 +9,10 @@ Original file is located at
 
 !nvidia-smi
 
-!pip uninstall -y paddlepaddle
-!pip install paddlepaddle-gpu paddleocr
-
 import paddle
 print(paddle.device.get_device())
 
 !pip install easyocr
-
-!pip uninstall -y pillow
-!pip install pillow==11.3.0
 
 import PIL
 import gradio
@@ -28,15 +22,9 @@ print("Gradio:", gradio.__version__)
 !pip uninstall -y pillow paddlepaddle
 !pip install pillow==11.3.0 paddlepaddle-gpu paddleocr opencv-python pdf2image
 
-!pip uninstall -y gradio
+!pip uninstall -y gradio #not required unless creating UI
 
 !pip uninstall -y numpy opencv-python opencv-python-headless packaging
-!pip install \
-numpy==1.26.4 \
-opencv-python-headless==4.9.0.80 \
-packaging==24.2 \
-pillow==11.3.0
-
 !pip install \
 numpy==1.26.4 \
 opencv-python-headless==4.9.0.80 \
