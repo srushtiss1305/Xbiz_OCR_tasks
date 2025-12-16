@@ -12,13 +12,6 @@ Original file is located at
 !pip uninstall -y pillow paddlepaddle
 !pip install pillow==11.3.0 paddlepaddle-gpu paddleocr opencv-python pdf2image
 
-!pip uninstall -y numpy opencv-python opencv-python-headless packaging
-!pip install \
-numpy==1.26.4 \
-opencv-python-headless==4.9.0.80 \
-packaging==24.2 \
-pillow==11.3.0
-
 import numpy, cv2, packaging
 print("NumPy:", numpy.__version__)
 print("OpenCV:", cv2.__version__)
